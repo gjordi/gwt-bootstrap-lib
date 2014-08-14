@@ -10,6 +10,6 @@
 	<source path="client" />
 
 	<!-- Entry point -->
-	<entry-point class="com.bytebybyte.gwt.jquery.client.JQueryLibConfigurerEntryPoint" />
+	<entry-point class="com.bytebybyte.gwt.bootstrap.client.BootstrapLibConfigurerEntryPoint" />
 
 </module>
