@@ -4,7 +4,7 @@
 
 	<groupId>com.bytebybyte.gwt</groupId>
 	<artifactId>bootstrap-lib</artifactId>
-	<version>3.2.1-SNAPSHOT</version>
+	<version>3.3.1-SNAPSHOT</version>
 
 	<name>Bootstrap Library</name>
 	<description>Bootstrap Library for GWT</description>
@@ -20,7 +20,7 @@
 	</prerequisites>
 
 	<properties>
-		<gwtVersion>2.6.1</gwtVersion>
+		<gwtVersion>2.7.0</gwtVersion>
 		<jqueryVersion>2.1.1</jqueryVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
