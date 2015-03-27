@@ -17,7 +17,7 @@ Add the dependencies to your Maven POM:
 <dependency>
 	<groupId>com.bytebybyte.gwt</groupId>
 	<artifactId>bootstrap-lib</artifactId>
-	<version>3.3.1</version>
+	<version>3.3.4</version>
 	<scope>provided</scope>
 </dependency>
 ```
