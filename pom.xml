@@ -4,7 +4,7 @@
 
 	<groupId>com.bytebybyte.gwt</groupId>
 	<artifactId>bootstrap-lib</artifactId>
-	<version>3.3.2-SNAPSHOT</version>
+	<version>3.3.4-SNAPSHOT</version>
 
 	<name>Bootstrap Library</name>
 	<description>Bootstrap Library for GWT</description>
